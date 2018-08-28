@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "asset_finance-executor",
+    "name": "asset_finance",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "v555vttq09"
+  }
+}
