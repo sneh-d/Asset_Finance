@@ -1,0 +1,31 @@
+{
+  "name": "asset_finance",
+  "version": "1.0.0",
+  "description": "Asset finance widget for dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.302.0",
+    "aws-serverless-express": "^3.3.5",
+    "express": "^4.16.3",
+    "mysql": "^5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneh-d/Asset_Finance.git"
+  },
+  "devDependencies": {
+    "claudia": "^5.6.0"
+  },
+  "keywords": [
+    "asset"
+  ],
+  "author": "snehil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneh-d/Asset_Finance/issues"
+  },
+  "homepage": "https://github.com/sneh-d/Asset_Finance#readme"
+}
